@@ -23,14 +23,18 @@ Imported the data into Power BI for visualization and dashboard creation.
 ## Dashboard Creation:
 
 Designed a home page to provide an overview and navigation:
-[Home Page.pdf](https://github.com/samipdk/BLS_powerbidashboard/files/15400518/Home.Page.pdf)
+
+![Homepage](https://github.com/samipdk/BLS_powerbidashboard/assets/137905918/435284c4-a5ce-4c33-b5b6-6085818d2d3b)
+
 Created an "Employment Price Statistics" page with the following elements:
 Matrix Tables:
 Displayed data for CPI, PPI, and national employment for the previous year, current year, and growth percentage.
 Line Charts:
 One chart showing trends in CPI and PPI over the past twelve months.
-Another chart illustrating national employment data over the same period.
-[Dashboard.pdf](https://github.com/samipdk/BLS_powerbidashboard/files/15400519/Dashboard.pdf)
+
+Another chart illustrating national employment data over the same period:
+
+![dashboard](https://github.com/samipdk/BLS_powerbidashboard/assets/137905918/cb219d24-3d8c-42d1-a668-9e730ac0e4ea)
 
 ## Solutions Provided: 
 Data Accessibility: Provided a streamlined process to access and retrieve economic data from the BLS API, making it easier for users to obtain and work with this information.
