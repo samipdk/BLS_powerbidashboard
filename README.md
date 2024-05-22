@@ -1,38 +1,38 @@
 ## Power BI BLS Dashboard
 
 ## Problem Statement
-The project aimed to create an interactive and informative dashboard to analyze key economic indicators—Consumer Price Index (CPI), Producer Price Index (PPI), and national employment data—using data extracted from the Bureau of Labor Statistics (BLS) API. This involved fetching the data programmatically, transforming it for analysis, and visualizing it to identify trends and patterns over time.
+  The project aimed to create an interactive and informative dashboard to analyze key economic indicators—Consumer Price Index (CPI), Producer Price Index (PPI), and national employment data—using data extracted from the Bureau of Labor Statistics (BLS) API. This involved fetching the data programmatically, transforming it for analysis, and visualizing it to identify trends and patterns over time.
 
 ## Steps Followed
 
 ## Data Extraction:
 
-Utilized the BLS API to fetch data on CPI, PPI, and national employment.
-Used Python and the requests library to programmatically access the API and retrieve the relevant datasets.
+  Utilized the BLS API to fetch data on CPI, PPI, and national employment.
+  Used Python and the requests library to programmatically access the API and retrieve the relevant datasets.
 
 ## Data Transformation:
 
-Loaded the fetched data into Pandas DataFrames for processing and manipulation.
-Cleaned and transformed the data to ensure consistency and accuracy for analysis.
+  Loaded the fetched data into Pandas DataFrames for processing and manipulation.
+  Cleaned and transformed the data to ensure consistency and accuracy for analysis.
 
 ## Data Loading:
 
-Exported the processed data into a format compatible with Power BI.
-Imported the data into Power BI for visualization and dashboard creation.
+  Exported the processed data into a format compatible with Power BI.
+  Imported the data into Power BI for visualization and dashboard creation.
 
 ## Dashboard Creation:
 
-Designed a home page to provide an overview and navigation:
+  Designed a home page to provide an overview and navigation:
 
 ![Homepage](https://github.com/samipdk/BLS_powerbidashboard/assets/137905918/435284c4-a5ce-4c33-b5b6-6085818d2d3b)
 
-Created an "Employment Price Statistics" page with the following elements:
-Matrix Tables:
-Displayed data for CPI, PPI, and national employment for the previous year, current year, and growth percentage.
-Line Charts:
-One chart showing trends in CPI and PPI over the past twelve months.
-
-Another chart illustrating national employment data over the same period:
+  Created an "Employment Price Statistics" page with the following elements:
+  Matrix Tables:
+  Displayed data for CPI, PPI, and national employment for the previous year, current year, and growth percentage.
+  Line Charts:
+  One chart showing trends in CPI and PPI over the past twelve months.
+  
+  Another chart illustrating national employment data over the same period:
 
 ![dashboard](https://github.com/samipdk/BLS_powerbidashboard/assets/137905918/cb219d24-3d8c-42d1-a668-9e730ac0e4ea)
 
